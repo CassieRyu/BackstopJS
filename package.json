@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "initial": "./node_modules/.bin/backstop init",
+    "test": "./node_modules/.bin/backstop test",
+    "update": "./node_modules/.bin/backstop approve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "backstopjs": "^3.8.8"
+  }
+}
